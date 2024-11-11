@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Kumar</h1>
 <h3 align="center">Frontend Developer | AI/ML Enthusiast | Tech Innovator | AI Art Creator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raaj157&label=Profile%20views&color=0e75b6&style=flat" alt="raaj157" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raaj157" alt="raaj157" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/wise_crest" target="blank"><img src="https://img.shields.io/twitter/follow/wise_crest?logo=twitter&style=for-the-badge" alt="wise_crest" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://raajportfolio.netlify.app](https://raajportfolio.netlify.app)
 
 - 📫 How to reach me **raajkumarrajguru@gmail.com**
