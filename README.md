@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Kumar</h1>
 <h3 align="center">Frontend Developer | AI/ML Enthusiast | Tech Innovator | AI Art Creator</h3>
 
-- 👨‍💻 All of my projects are available at [https://raajportfolio.netlify.app](https://raajportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://raajportfolio.netlify.app](https://www.asbit.tech)
 
 - 📫 How to reach me **raajkumarrajguru@gmail.com**
 
